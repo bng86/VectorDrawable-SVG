@@ -1,0 +1,8 @@
+<objectAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="1500"
+    android:propertyName="fillColor"
+    android:repeatCount="-1"
+    android:repeatMode="reverse"
+    android:valueFrom="@android:color/darker_gray"
+    android:valueTo="@android:color/holo_red_light"/>

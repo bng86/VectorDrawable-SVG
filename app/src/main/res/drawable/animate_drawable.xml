@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/heart">
+
+    <target
+        android:animation="@anim/gray_to_red"
+        android:name="heart"/>
+
+    <target
+        android:animation="@anim/scale_heart"
+        android:name="heart_group" />
+    
+</animated-vector>
